@@ -10,7 +10,7 @@
 - 🔭: I’m currently Co-leading a research team and we are trying to analyse the disasters using sateliite images
 - 🤔: I’m looking for help with anything I am currently learning! 😅
 - 💬: Ask me about Artificial intelligence, Computer vision and Machine Learning algorithms. 📊📈🤖🧠
-- 😄  Pronouns: He/His
+- 😄  Pronouns: He/Him
 - ⚡  Fun fact: I love photography, video games and travelling
   
   <hr>
@@ -32,7 +32,7 @@ Accepted at the 20th International conference of machine learning and applicatio
 <Br>
 <Br>
 <B>Real-time Attention Span Tracking in Online Education</B>
-Published at the MIT-Undergraduate Research Technological Conference(MIT-URTC)2020.
+<I>Published at the MIT-Undergraduate Research Technological Conference(MIT-URTC)2020.</I>
 <Br>
 <Br>
 <B>Real-time smart vehicle surveillance system</B>
