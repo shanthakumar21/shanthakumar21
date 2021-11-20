@@ -27,16 +27,16 @@
 <h1>My Publications</h1>
 <Br>
 
-<B>End-to-End Optimized Arrhythmia Detection Pipeline using Machine Learning for Ultra-Edge Devices</B>
-Accepted at the 20th International conference of machine learning and application(ICMLA)2021
+<B>End-to-End Optimized Arrhythmia Detection Pipeline using Machine Learning for Ultra-Edge Devices</B><Br>
+<I>Accepted at the 20th International conference of machine learning and application(ICMLA)2021</I>
 <Br>
 <Br>
-<B>Real-time Attention Span Tracking in Online Education</B>
+<B>Real-time Attention Span Tracking in Online Education</B><Br>
 <I>Published at the MIT-Undergraduate Research Technological Conference(MIT-URTC)2020.</I>
 <Br>
 <Br>
-<B>Real-time smart vehicle surveillance system</B>
-Accepted at the 5th International Conference on Applied Sciences, Engineering, Technology And Management (ICASETM-21)
+<B>Real-time smart vehicle surveillance system</B><Br>
+<I>Accepted at the 5th International Conference on Applied Sciences, Engineering, Technology And Management (ICASETM-21)</I>
   
   
 
