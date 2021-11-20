@@ -7,11 +7,12 @@
 <h1>About Me! 😎</h1>
 
 - 🏫: I'm a Full-Time Research Assistant at solarillion Foundation
-- 🔭: I’m currently Co-leading a research team and we are trying to analyse the disasters using sateliite images
+- 🔭: I’m currently Co-leading a research team in Solarillion Foundation
+- 🌱: I’m currently, will and always learn Machine Learning 
 - 🤔: I’m looking for help with anything I am currently learning! 😅
-- 💬: Ask me about Artificial intelligence, Computer vision and Machine Learning algorithms. 📊📈🤖🧠
+- 💬: Ask me about Python,C and C++. 📊📈🤖🧠
 - 😄  Pronouns: He/Him
-- ⚡  Fun fact: I love photography, video games and travelling
+- ⚡  Fun fact: I love photography, video games and travelling.
   
   <hr>
 <Br>
