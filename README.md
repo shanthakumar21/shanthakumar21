@@ -4,7 +4,7 @@
 <hr>
 <h1 align="center">I'm <a href="https://github.com/shanthakumar21">Shanthakumar<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <Br>
-<h1>About Me! 😎</h1>
+<h1>About Me! </h1>
 
 - 🏫: I'm a Full-Time Research Assistant at solarillion Foundation
 - 🔭: I’m currently Co-leading a research team in Solarillion Foundation
