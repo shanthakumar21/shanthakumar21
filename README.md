@@ -6,10 +6,10 @@
 <Br>
 <h1>About Me! </h1>
 
-- 🏫: I'm a Full-Time Research Assistant at solarillion Foundation
-- 🔭: I’m currently Co-leading a research team in Solarillion Foundation
-- 🌱: I’m currently, will and always learn Machine Learning 
-- 🤔: I’m looking for help with anything I am currently learning! 😅
+- 🏫: I'm a Full-Time Masters student persuing Computer Science
+- 🔭: My past experience revolves around research related to Machine Learninig
+- 🌱: I’m in the process of understanding core concepts like Datastructures, Algorithms and Operating Systems.
+- 🤔: I’m looking for internships for the summer of 2023 😅
 - 💬: Ask me about Python,C and C++. 📊📈🤖🧠
 - 😄  Pronouns: He/Him
 - ⚡  Fun fact: I love photography, video games and travelling.
