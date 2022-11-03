@@ -6,7 +6,7 @@
 <Br>
 <h1>About Me! </h1>
 
-- 🏫: I'm a Full-Time Masters student persuing Computer Science
+- 🏫: I'm a Full-Time Masters student persuing Computer Science at Boston University
 - 🔭: My past experience revolves around research related to Machine Learninig
 - 🌱: I’m in the process of understanding core concepts like Datastructures, Algorithms and Operating Systems.
 - 🤔: I’m looking for internships for the summer of 2023 😅
