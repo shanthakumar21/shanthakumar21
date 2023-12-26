@@ -7,10 +7,10 @@
 <h1>About Me! </h1>
 
 - 🏫: I'm a Full-Time Masters student persuing Computer Science at Boston University
-- 🔭: My past experience revolves around research related to Machine Learninig
-- 🌱: I’m in the process of understanding core concepts like Datastructures, Algorithms and Operating Systems.
-- 🤔: I’m looking for internships for the summer of 2023 😅
-- 💬: Ask me about Python,C and C++. 📊📈🤖🧠
+- 🔭: My past experience revolves around research related to Machine Learninig and Computer networking. 
+- 🌱: I’m in the process of gaining skills in the MERN Stack. 
+- 🤔: I’m looking for full time opputunities starting Feb 2024😅
+- 💬: Ask me about Python, Networking protocols or about formula 1 and Boxing for a ligher convo. 📊📈🤖🧠
 - 😄  Pronouns: He/Him
 - ⚡  Fun fact: I love photography, video games and travelling.
   
