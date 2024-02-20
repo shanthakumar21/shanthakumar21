@@ -10,9 +10,9 @@
 - 🔭: My past experience revolves around research related to Machine Learninig and Computer networking. 
 - 🌱: I’m in the process of gaining skills in the MERN Stack. 
 - 🤔: I’m looking for full time opputunities starting Feb 2024😅
-- 💬: Ask me about Python, Networking protocols or about formula 1 and Boxing for a ligher convo. 📊📈🤖🧠
+- 💬: Ask me about Backend Development or about formula 1 and Boxing for a ligher convo. 📊📈🤖🧠
 - 😄  Pronouns: He/Him
-- ⚡  Fun fact: I love photography, video games and travelling.
+- ⚡  Fun fact: I love technology!!!!
   
   <hr>
 <Br>
