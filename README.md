@@ -29,7 +29,7 @@
 <Br>
 
 <B>End to End Data Engineering Project</B><Br>
-<I><a href= "https://github.com/shanthakumar21/Data-Engineer-Test-for-Fetch---Shanthakumar-Sivakumar">The project involves a real-time streaming data pipeline using Kafka and Docker, with a Flask server with dash and other components to display the data on a web dashboard (ICASETM-21)</I></a>  
+<I><a href= "https://github.com/shanthakumar21/Data-Engineer-Test-for-Fetch---Shanthakumar-Sivakumar"> Link !! </a>The project involves a real-time streaming data pipeline using Kafka and Docker, with a Flask server with dash and other components to display the data on a web dashboard </I>  
 <Br>
 <Br>
 <B>End-to-End Optimized Arrhythmia Detection Pipeline using Machine Learning for Ultra-Edge Devices</B><Br>
