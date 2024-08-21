@@ -8,9 +8,9 @@
 
 - 🏫: I'm a new grad actively searching full time software related roles
 - 🔭: My past experiences are in the domaain of Machine Learning, Full-stack Development, Computer Networking and Software Engineering. 
-- 🌱: I’m in the process of gaining skills in the MERN Stack. 
+🌱: I’m currently building a full-scale app and actively studying C++ and CUDA in my spare time. I’m also deeply interested in GPU technology.
 - 🤔: I’m looking for full time opputunities in the United States and I can join ASAP!!!!
-- 💬: Ask me about Backend Development or about formula 1 and Boxing for a ligher convo. 📊📈🤖🧠
+- 💬: Ask me about Computers or about formula 1 and Boxing for a ligher convo. 📊📈🤖🧠
 - 😄  Pronouns: He/Him
 - ⚡  Fun fact: I love technology!!!!
   
