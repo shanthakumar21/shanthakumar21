@@ -30,11 +30,11 @@
 <Br>
 <Br>
 <B>End-to-End Optimized Arrhythmia Detection Pipeline using Machine Learning for Ultra-Edge Devices</B><Br>
-<I><a href= "https://arxiv.org/abs/2111.11789">Published at the 20th International conference of machine learning and application(ICMLA)2021</I></a>
+<I><a href= "https://ieeexplore.ieee.org/document/9680091">Published at the 20th International conference of machine learning and application(ICMLA)2021</I></a>
 <Br>
 <Br>
 <B>Real-time Attention Span Tracking in Online Education</B><Br>
-<I><a href= "https://arxiv.org/abs/2111.14707">Published at the MIT-Undergraduate Research Technological Conference(MIT-URTC)2020.</I></a>
+<I><a href= "https://ieeexplore.ieee.org/document/9668900">Published at the MIT-Undergraduate Research Technological Conference(MIT-URTC)2020.</I></a>
 <Br>
 <Br>
 <B>Real-time smart vehicle surveillance system</B><Br>
